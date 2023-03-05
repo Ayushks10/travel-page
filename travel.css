@@ -1,0 +1,11 @@
+header {
+    height:100vh;
+    min-height:400px;
+    background-size:cover;
+    background-image:url('https://wallpaperaccess.com/full/1431610.jpg');
+}
+
+.hidden-spacer {
+    height: 56px
+}
+
